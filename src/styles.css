@@ -123,3 +123,26 @@ img.socialIcon {
   width: 30px;
   height: 30px;
 }
+
+img.profile {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin: 0 auto;
+}
+
+img.profile:hover {
+  transform: scale(1.1);
+}
+
+img.profile:active {
+  transform: scale(0.9);
+}
+
+img.profile:active {
+  transform: scale(0.9);
+}
+
+img.profile:active {
+  transform: scale(0.9);
+}
